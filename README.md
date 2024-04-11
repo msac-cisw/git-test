@@ -1,2 +1,3 @@
-# git-test
-Repo for students to test whether git is working.
+# Git Test
+
+Congratulations. Your git is working.
